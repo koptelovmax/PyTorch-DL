@@ -16,7 +16,7 @@
 - **seq2one.py** - simple RNN for the QRSU classification task with with a heatmap for model interpretability
 - **seq2one-lstm.py** - RNN with LSTM for the QRSU classification task with heatmaps for model interpretability
 
-## Requirements
+### Requirements
 
 Requires (for seq2one.py, seq2one-lstm.py):
 
@@ -25,7 +25,7 @@ Requires (for seq2one.py, seq2one-lstm.py):
 
 Tested on: Python 3.7, torch 1.5.1 (+CUDA 9.2)
 
-## Sources
+### Sources
 
 Based on tutorials:
 

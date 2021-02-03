@@ -16,6 +16,8 @@
 - **seq2one.py** - simple RNN for the QRSU classification task with with a heatmap for model interpretability
 - **seq2one-lstm.py** - RNN with LSTM for the QRSU classification task with heatmaps for model interpretability
 
+## Requirements
+
 Requires (for seq2one.py, seq2one-lstm.py):
 
 - wget https://github.com/Atcold/pytorch-Deep-Learning/blob/master/res/sequential_tasks.py
@@ -23,8 +25,20 @@ Requires (for seq2one.py, seq2one-lstm.py):
 
 Tested on: Python 3.7, torch 1.5.1 (+CUDA 9.2)
 
+## Sources
+
 Based on tutorials:
 
-- https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607
-- https://dl-lab.eu
-- https://atcold.github.io/pytorch-Deep-Learning
+https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+https://atcold.github.io/pytorch-Deep-Learning
+
+Other sourses studied:
+
+https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607
+
+http://2018.dl-lab.eu/schedule
+
+http://2019.dl-lab.eu/schedule
+
+http://2020.dl-lab.eu/virtual-summer-school-on-deep-learning

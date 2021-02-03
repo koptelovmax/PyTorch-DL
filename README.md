@@ -20,8 +20,9 @@
 
 Requires (for seq2one.py, seq2one-lstm.py):
 
-- wget https://github.com/Atcold/pytorch-Deep-Learning/blob/master/res/sequential_tasks.py
-- wget https://github.com/Atcold/pytorch-Deep-Learning/blob/master/res/plot_lib.py
+wget https://github.com/Atcold/pytorch-Deep-Learning/blob/master/res/sequential_tasks.py
+
+wget https://github.com/Atcold/pytorch-Deep-Learning/blob/master/res/plot_lib.py
 
 Tested on: Python 3.7, torch 1.5.1 (+CUDA 9.2)
 

@@ -33,7 +33,7 @@ https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
 https://atcold.github.io/pytorch-Deep-Learning
 
-Other sourses studied:
+Other sources studied:
 
 https://www.oreilly.com/library/view/fundamentals-of-deep/9781491925607
 

@@ -15,10 +15,11 @@
 
 - **seq2one.py** - simple RNN for the QRSU classification task with with a heatmap for model interpretability
 - **seq2one-lstm.py** - RNN with LSTM for the QRSU classification task with heatmaps for model interpretability
+- **seq2seq.py** - RNN for the signal echoing task (an example of the synchronized seq2seq task)
 
 ### Requirements
 
-Requires (for seq2one.py, seq2one-lstm.py):
+Requires (for seq2one.py, seq2one-lstm.py, seq2seq.py):
 
 wget https://github.com/Atcold/pytorch-Deep-Learning/blob/master/res/sequential_tasks.py
 
